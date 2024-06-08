@@ -1,0 +1,1 @@
+cc main.c -I lib/raylib-5.0_macos/include -L lib/raylib-5.0_macos/lib -l raylib -framework Cocoa -framework IOKit && ./a.out
